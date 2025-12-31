@@ -61,4 +61,6 @@ python "citymap_assignment - v2.py"
     *   **Sensors**: Adjust `SENSOR_DIST` to change how far the car sees.
 
 ## 7. Demo
-![Application Demo](demo.mp4)
+https://youtu.be/-GC0jrgFnMk
+
+
