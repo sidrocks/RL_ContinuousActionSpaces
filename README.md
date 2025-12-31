@@ -62,9 +62,12 @@ python "citymap_assignment - v2.py"
 
 ## 7. Demo
 
-![Uploading image.png…]()
+<img width="1833" height="1109" alt="image" src="https://github.com/user-attachments/assets/70f29807-da5e-462e-b939-a86d697e8008" />
+
+
 
 https://youtu.be/-GC0jrgFnMk
+
 
 
 
